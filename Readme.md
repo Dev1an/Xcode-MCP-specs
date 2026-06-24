@@ -1,5 +1,5 @@
-Specs of Xcode's MCP tools
+Specs of Xcode's MCP tools generated using [McpDump](https://github.com/Dev1an/McpDump)
 
 - Xcode 27
-  - [Beta 1](Xcode 27/beta 1)
-  - [Beta 2](Xcode 27/beta 2)
+  - [Beta 1](Xcode%2027/beta%202)
+  - [Beta 2](Xcode%2027/beta%202)
